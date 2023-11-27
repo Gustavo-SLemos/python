@@ -3,7 +3,7 @@
 lista_idade = []
 lista_altura = []
 
-for i in range(2):
+for i in range(5):
     idade = int(input(f"Digite a idade da pessoa {i + 1}: "))
     lista_idade.append(idade)
     altura = float(input(f"Digite a altura da pessoa {i + 1}: "))
